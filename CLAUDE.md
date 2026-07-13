@@ -129,3 +129,8 @@ Before considering a task complete:
 - [ ] Error cases are handled where relevant
 - [ ] Commit message follows Conventional Commits
 - [ ] Documentation is updated if behavior or setup changed
+## Project Rules Learned
+
+1. Always use TypeScript interfaces for component state and props.
+2. Every form should include validation and accessible labels.
+3. AI-generated code must be reviewed and tested before committing.
